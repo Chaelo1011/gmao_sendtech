@@ -1,4 +1,4 @@
-<p align="center"><img src="" height="200"></p>
+<p align="center"><img src="https://github.com/Chaelo1011/gmao_sendtech/blob/main/public/img/logo.jpeg" height="200"></p>
 
 <h1 align="center">GMAO Sendtech</h1>
 
